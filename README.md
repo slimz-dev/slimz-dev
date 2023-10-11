@@ -1,4 +1,6 @@
 <img align="right" width="1000" src="https://i.pinimg.com/originals/48/a1/8c/48a18c791d1254ce7b85a21b4396e1d1.gif"/>
+# 💫 About Me:
+<li>:computer: I'm currently studying for front-end developer position.</li><br><li>:school: I'm a fourth-year student at Academy of Cryptography Techniques.</li><br><li>:earth_asia: Still and remain live in Viet Nam.</li><br><li>:eye: Interested in playing csgo and fixing some minor bugs..</li>
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/llshuzg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ll.shuzg) 
