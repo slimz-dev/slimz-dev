@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slimz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="slimz-dev" /> </p>
 <img align="right" width="1000" src="https://i.pinimg.com/originals/48/a1/8c/48a18c791d1254ce7b85a21b4396e1d1.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimz-dev&theme=alduin" alt="slimz-dev" /></a> </p>
 
